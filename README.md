@@ -1,2 +1,2 @@
 # Geekbrains
-Pervoye Domashniye zadaniye
+Sdelal pervoye domashniye zadaniye
