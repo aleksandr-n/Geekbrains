@@ -125,16 +125,16 @@ function umnojenie (a, b) {
 
 function mathOperation(arg1, arg2, operation){
     switch(operation){
-        case 'сложение':
+        case 'plus':
             return arg1 + arg2;
             break;
-        case 'вычитание':
+        case 'minus':
             return arg1 - arg2;
             break;
-        case 'деление':
+        case 'dilenie':
             return arg1 / arg2;
             break;
-        case 'умножение':
+        case 'umnojenie':
             return arg1 * arg2;
             break;
     }
