@@ -122,7 +122,6 @@ function umnojenie (a, b) {
 }
 
 // 6 Задача
-
 function mathOperation(arg1, arg2, operation){
     switch(operation){
         case 'plus':
